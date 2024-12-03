@@ -18,7 +18,7 @@
 - **Description** : Site e-commerce pour lunettes fictives, incluant sessions utilisateurs, panier, et paiement avec Stripe.  
 - **Technologies** : PHP, HTML/CSS, JavaScript.
 
-### **Projet Python*2024*
+### **Projet Python** *(2024)*
 -**Description**: Utilisation avancée de Python pour traiter des datasets complexes.
 -**Technologies** : Jupyter notebook, Python (Matplolib, Panda, Seaborn)
 
