@@ -2,7 +2,7 @@
 
 🎓 **Étudiante en Licence Mathématiques et Informatique (MIASHS)**  
    - Spécialisation : Économie et analyse de données  
-   - Actuellement en semestre d'échange à l'Université de Montréal.  
+   - En semestre d'échange à l'Université de Montréal à partir de janvier.  
 
 📊 Passionnée par la **data science**, l’**intelligence artificielle** et la **programmation web**, je suis à la recherche d'une première expérience dans le domaine de la **data** pour une période de **2 à 3 mois**.
 
