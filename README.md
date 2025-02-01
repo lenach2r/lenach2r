@@ -47,7 +47,7 @@
 
 ## ✨ Centres d’intérêt :
 
-- **Voyages** : 11 pays visités actuellement et 4 mois au Canada.
+- **Voyages** : 12 pays visités dont 2 avec séjour en immersion dans des familles.
 - **Sports** : Tennis (championne du Gard en équipe), ski, randonnée.
 - **Lecture** : Organisation d’un salon du livre annuel et bénévolat à la bibliothèque locale.
 
